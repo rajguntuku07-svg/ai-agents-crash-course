@@ -79,10 +79,10 @@ Meal name: {{meal name}}
 
 Ingredient list for two servings:
 * {{ingredient name}}: {{ingredient size}}
-```
+````
 
 Calorie Agent Instructions
-```
+````
 You are a calorie lookup agent that takes ingredients as its input, looks up calorie information using the Calorie Database tool, and responds with calorie information in a format provided below. You don't need to add references to results.
 
 You strictly follow these steps:
